@@ -1,5 +1,5 @@
 # Seismic-Explorer 
-[Tableau dashboard link](https://public.tableau.com/app/profile/lipsita.tripathy/viz/Earthquake_Analysis_17069475002240/Dashboard32)
+[Tableau dashboard link](https://public.tableau.com/views/Earthquake_Analysis_17069475002240/Dashboard32?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 An Interactive Analysis of Global Earthquakes
 Welcome to an interactive dashboard visualizing global seismic activity from 1900 to 2013. This comprehensive tool allows you to explore the frequency, depth, and magnitude of earthquakes, with a special focus on quakes with 6+ magnitude.
